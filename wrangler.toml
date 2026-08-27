@@ -1,0 +1,3 @@
+name = "mobile-khenisa-backend"
+main = "backend/index.js"
+compatibility_date = "2026-08-27"
