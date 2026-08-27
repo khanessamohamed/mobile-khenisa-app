@@ -463,6 +463,4 @@ newCustomers.push({
   }
 );
 
-app.listen(port, '0.0.0.0', () => {
-  console.log(`السيرفر شغال على http://localhost:${port}`);
-});
+module.exports = app;
